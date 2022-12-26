@@ -33,6 +33,9 @@
     },
     "scanLimit": {
       "type": "integer"
+    },
+    "status": {
+      "type": "boolean"
     }
   }
 }
